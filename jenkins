@@ -1,0 +1,4 @@
+echo "hello first try"
+date
+cal
+echo "by"
